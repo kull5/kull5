@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi there 👋  
-I'm **[Your Name]**, a Computer Science student passionate about software development and IoT.  
+I'm **Muhamad Rizqullah Ichson**, a Computer Science student passionate about software development and IoT.  
 Currently looking for an **internship opportunity** to grow my skills and contribute to real-world projects.
 
 ## 🔧 Skills
@@ -15,8 +15,8 @@ Currently looking for an **internship opportunity** to grow my skills and contri
 - 🌡️ **IoT Temperature Monitoring system**  
 
 ## 📫 Connect with Me
-- Email: [your.email@example.com]  
-- LinkedIn: [linkedin.com/in/yourprofile]  
+- Email: rizqullahichson@gmail.com  
+- LinkedIn: www.linkedin.com/in/rizqullah-ichson-293715387 
 
 ---
 
