@@ -10,13 +10,13 @@ Currently looking for an **internship opportunity** to grow my skills and contri
 - **Mobile Development:** Built simple applications during coursework/projects  
 
 ## 📌 Projects
-- 🌐 **Front-End projects:** UI design & implementation  
+- 🌐 **[Front-End projects](https://github.com/kull5/Tugas-Human-Computer-Interaction):** UI design & implementation  
 - 📱 **Mobile application development**  
 - 🌡️ **IoT Temperature Monitoring system**  
 
 ## 📫 Connect with Me
 - Email: rizqullahichson@gmail.com  
-- LinkedIn: www.linkedin.com/in/rizqullah-ichson-293715387 
+- LinkedIn: [www.linkedin.com/in/rizqullah-ichson-293715387](www.linkedin.com/in/rizqullah-ichson-293715387)
 
 ---
 
